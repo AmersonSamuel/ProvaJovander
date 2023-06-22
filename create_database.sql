@@ -1,0 +1,1 @@
+CREATE TABLE `banco2`.`prova` ( `nome` VARCHAR(100) NOT NULL , `email` VARCHAR(100) NOT NULL ) ENGINE = InnoDB;
